@@ -1,0 +1,8 @@
+.feedbackDiv{
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 300px;
+    height: 100px;
+    margin: 20px 0px;
+    padding: 10px;
+}
